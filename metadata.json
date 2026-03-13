@@ -1,0 +1,7 @@
+{
+  "name": "MC - Calorias",
+  "description": "Um aplicativo premium de rastreamento de calorias e nutrição com inteligência artificial e design elegante inspirado no iOS. Registre alimentos com linguagem natural e acompanhe suas metas de condicionamento físico sem esforço.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
